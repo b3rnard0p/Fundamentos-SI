@@ -1,0 +1,23 @@
+Vocabulário Fundamentos SI:
+
+1-Microserviços.
+2-Pervasivo.
+3-Ubíquo.
+4-Cloud Computing.
+5-FAQ
+6-Chatrots
+7-API
+7-Framework
+8-IASS
+9-PASS
+10-SASS
+11-Internet das coisas
+12-Sistema de conhecimento
+13-SIG
+14-SAD
+15-Sistema
+16-Requisitos
+17-
+18-
+19-
+20-
