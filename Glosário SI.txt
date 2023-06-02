@@ -1,4 +1,4 @@
-Vocabulário Fundamentos SI:
+Glosário Fundamentos SI:
 
 1-Microserviços.
 2-Pervasivo.
