@@ -17,7 +17,7 @@ Glossário Fundamentos SI:
 14-SAD
 15-Sistema
 16-Requisitos
-17-
-18-
-19-
+17-ERP
+18-Indústria 4.0
+19-Complice
 20-
